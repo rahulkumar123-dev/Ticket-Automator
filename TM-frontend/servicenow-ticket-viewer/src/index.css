@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* New light theme for the application */
+body {
+  @apply bg-slate-50 text-slate-800 dark:bg-gray-900 dark:text-slate-200 transition-colors duration-300;
+}
