@@ -4,3 +4,8 @@ __pycache__/
 .env
 Dockerfile
 TM_UI_dev/
+# Node / React
+TM-frontend/servicenow-ticket-viewer/node_modules/
+TM-frontend/servicenow-ticket-viewer/dist/
+TM-frontend/servicenow-ticket-viewer/build/
+TM-frontend/servicenow-ticket-viewer/.env
