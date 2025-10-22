@@ -1,0 +1,6 @@
+venv/
+tm_venv/ 
+__pycache__/
+.env
+Dockerfile
+TM_UI_dev/
